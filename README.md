@@ -20,3 +20,4 @@ git status
 8.Agregar repositorio remoto git remote add origin https://github.com/JoaquinOrtega/scriptsdepython.git
 9.Subir cambios git push -u origin master
 10.Agregar archivos  git add --all
+11.Nos direcciona al repositorio a los diferentes cambios que hemos hecho con checkout 1234567
