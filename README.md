@@ -19,3 +19,4 @@ git status
 7.Checar historial de cambios git log
 8.Agregar repositorio remoto git remote add origin https://github.com/JoaquinOrtega/scriptsdepython.git
 9.Subir cambios git push -u origin master
+10.Agregar archivos  git add --all
